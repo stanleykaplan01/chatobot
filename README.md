@@ -1,5 +1,3 @@
-Here’s the same chatbot article in Markdown format:
-
 # Build a Simple Chatbot in Python
 
 Creating a chatbot has become much easier with modern AI libraries. In this article, we’ll build a **basic chatbot** using Hugging Face’s `transformers` library.
